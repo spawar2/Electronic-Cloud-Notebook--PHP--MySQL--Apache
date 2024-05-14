@@ -1,4 +1,4 @@
-# Electronic-Cloud-Notebook--PHP--MySQL--Apache
+# Electronic-Cloud-Notebook--PHP--MySQL--Apache collaboration with Dr. Batra, Georgia State University https://www.linkedin.com/in/harshul-batra/
 [PHP, CSS, JavaScript, HTML]
 A PHP, MySQL based electronic record keeping cloud system.
 [Paper Link:](https://academicjournals.org/journal/JETR/article-abstract/3E747E956778)
