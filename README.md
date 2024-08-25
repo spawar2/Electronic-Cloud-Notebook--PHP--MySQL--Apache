@@ -1,5 +1,5 @@
 # Electronic-Cloud-Notebook--PHP--MySQL--Apache collaboration with Dr. Batra, Georgia State University, Atlanta, USA. https://www.linkedin.com/in/harshul-batra/
-[PHP, CSS, JavaScript, HTML]
+[PHP, CSS, JavaScript, HTML].
 <img width="794" alt="PHP" src="https://github.com/spawar2/Electronic-Cloud-Notebook--PHP--MySQL--Apache/assets/25118302/e853ca5f-2dfa-4cd5-8116-aa6af1a90922">
 
 A PHP, MySQL based electronic record keeping cloud system.
